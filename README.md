@@ -9,3 +9,5 @@ Here is the link to the official libusb website to download the file :
 https://libusb.info/
 
 ![image](https://github.com/allsteps/ABspectro/assets/172125356/12cea384-e3d8-44b1-a4c1-f68cf45ff65d)
+
+pyinstaller comand to create the different executables:
